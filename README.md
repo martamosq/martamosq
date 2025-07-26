@@ -3,18 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martamosq&label=Profile%20views&color=0e75b6&style=flat" alt="martamosq" /> </p>
 
-- 🔭 Proyectito [Texto a voz](https://github.com/martamosq/Lab5_TTS)
-
 - 🌱 Estoy aprendiendo **ThreeJS, Kotlin, Pandas...**
-
+- 🔭 Proyectito [Texto a voz](https://github.com/martamosq/Lab5_TTS)
 - 👯 Proyectito [Bingo](https://github.com/martamosq/Lab6Bingo)
-
 - 🤝 Proyecto grupal [App pizzeria](https://github.com/Mari3lySss-04/Fase1-MenuSemestral)
-
-- 👨‍💻 All of my projects are available at [https://github.com/martamosq](https://github.com/martamosq)
-
-- 📝 I regularly write articles on [.](.)
-
+- 👨‍💻 Visita el resto de mis proyectos en [https://github.com/martamosq](https://github.com/martamosq)
 - 📫 How to reach me **martamosqueract@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
