@@ -5,7 +5,7 @@
 
 - 🔭 Proyectito [Texto a voz](https://github.com/martamosq/Lab5_TTS)
 
-- 🌱 I’m currently learning **ThreeJS, Kotlin, Pandas...**
+- 🌱 Estoy aprendiendo **ThreeJS, Kotlin, Pandas...**
 
 - 👯 Proyectito [Bingo](https://github.com/martamosq/Lab6Bingo)
 
