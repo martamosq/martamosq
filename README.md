@@ -8,7 +8,7 @@
 - 👯 Proyectito [Bingo](https://github.com/martamosq/Lab6Bingo)
 - 🤝 Proyecto grupal [App pizzeria](https://github.com/Mari3lySss-04/Fase1-MenuSemestral)
 - 👨‍💻 Visita el resto de mis proyectos en [https://github.com/martamosq](https://github.com/martamosq)
-- 📫 How to reach me **martamosqueract@gmail.com**
+- 📫 Contacto **martamosqueract@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
